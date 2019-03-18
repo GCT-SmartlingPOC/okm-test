@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><requestId>4196C5DEA1885A49E0540010E00FA7A1</requestId><documentId>SOL306</documentId><channel>SOLUTIONS</channel><basedMajorVersion>30</basedMajorVersion><basedMinorVersion>0</basedMinorVersion><actualMajorVersion>30</actualMajorVersion><actualMinorVersion>0</actualMinorVersion><ownerId>9fcaa7c8ba1142ffa63e13c4473fb9c4</ownerId><source_locale>en_US</source_locale><source_country>US</source_country><source_language>en_US</source_language><locale>es_US</locale><country>US</country><language>es_XC</language><xml><SOLUTIONS><TITLE><![CDATA[How do I cancel PayPal/Website Payments Pro or Virtual Terminal 1.5/3.0?]]></TITLE><TEMPLATE><![CDATA[<p>Here is how&nbsp;to cancel PayPal Payments Pro or Virtual Terminal:</p>
+
+<ol>
+	<li>Log in to your PayPal account.</li>
+	<li>Click <b>Profile</b>.</li>
+	<li>Click <b>My money</b>. (Don&#39;t see this step? Follow the instructions below.)</li>
+	<li><span class="normal">Locate&nbsp;<strong>More Financial Settings. </strong></span></li>
+	<li><span class="normal">Click <strong>Monthly account billing</strong>.</span></li>
+	<li><span class="normal">Click <strong>Cancel Billing</strong> button on the bottom of the page.</span></li>
+</ol>
+
+<p>If you cancel PayPal Payments Pro or Virtual Terminal, you won&rsquo;t be able to use certain account features. For example, you won&rsquo;t be able to:</p>
+
+<ul>
+	<li>Process credit cards directly on your website with Direct Payment API.</li>
+	<li>Automatically deny payments that you think may be risky with Advanced Fraud Management Filters.</li>
+</ul>
+
+<p>To reaccept the PayPal Payments Pro or Virtual Terminal Billing Agreement and follow the steps above. If you canceled the Pro/Virtual Terminal billing agreement yourself, you will see an option to re-accept it. If PayPal canceled the billing agreement for you, we will need to re-enable it for you.</p>
+
+<p>If you follow the steps above and do not see the Cancel Billing option, please contact us via email at <a href="mailto:vt@paypal.com" target="_blank">vt@paypal.com</a> or by phone at <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1-888-221-1161</span> and authorize us to cancel your Pro/Virtual Terminal billing agreement.</p>
+]]></TEMPLATE><CE2/><INTERNAL_NOTES><![CDATA[<p>Canceling Pro/VT does not cancel reserves. Please escalate to Merchant Risk Operations via PET2, MRO - Reserve Reconsiderations (MRM for Account Managed accounts) if eligibility requirements have been met for a reconsideration/removal of reserves.</p>
+
+<p>Teammates can deactivate Pro/VT 1.5/3.0:</p>
+
+<ol>
+	<li><span class="normal">Find the account in ADMIN.</span></li>
+	<li><span class="normal">Go to the Products Info page.</span></li>
+	<li><span class="normal">Click on the blue hyperlink &#39;Preapproved Payments&#39; on the right hand side.</span></li>
+	<li><span class="normal">Locate the billing agreement with &quot;PayPal Monthly Billing.&quot;</span></li>
+	<li><span class="normal">Click <strong>Cancel </strong>and confirm.</span></li>
+</ol>
+
+<p>If an agent cancels Pro/VT for a customer, the user will be unable to reactivate their billing agreement online and must contact PayPal again.</p>
+
+<p>If a customer has a&nbsp;1.5 account, they will not see the agreement in the profile area as described above, so teammates will need to cancel the agreement for them.</p>
+]]></INTERNAL_NOTES><HOTKEY><![CDATA[canwppro]]></HOTKEY><NEW_PERSONAL/><NEW_BUSINESS><![CDATA[<p>Here is how&nbsp;to cancel PayPal Payments Pro or Virtual Terminal:</p>
+
+<ol>
+	<li>Log in to your PayPal account.</li>
+	<li>Click <b>Profile</b>.</li>
+	<li>Click <b>My money</b>. (Don&#39;t see this step? Follow the instructions below.)</li>
+	<li><span class="normal">Locate&nbsp;<strong>More Financial Settings. </strong></span></li>
+	<li><span class="normal">Click <strong>Monthly account billing</strong>.</span></li>
+	<li><span class="normal">Click <strong>Cancel Billing</strong> button on the bottom of the page.</span></li>
+</ol>
+
+<p>If you cancel PayPal Payments Pro or Virtual Terminal, you won&rsquo;t be able to use certain account features. For example, you won&rsquo;t be able to:</p>
+
+<ul>
+	<li>Process credit cards directly on your website with Direct Payment API.</li>
+	<li>Automatically deny payments that you think may be risky with Advanced Fraud Management Filters.</li>
+</ul>
+
+<p>To reaccept the PayPal Payments Pro or Virtual Terminal Billing Agreement and follow the steps above. If you canceled the Pro/Virtual Terminal billing agreement yourself, you will see an option to re-accept it. If PayPal canceled the billing agreement for you, we will need to re-enable it for you.</p>
+
+<p>If you follow the steps above and do not see the Cancel Billing option, please contact us via email at <a href="mailto:vt@paypal.com" target="_blank">vt@paypal.com</a> or by phone at <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1-888-221-1161</span> and authorize us to cancel your Pro/Virtual Terminal billing agreement.</p>
+]]></NEW_BUSINESS><ATTACHMENTS><ATTACHMENT SIZE="941068"><![CDATA[Disable and Re-enable PRO VT Action Guide.docx]]></ATTACHMENT></ATTACHMENTS><CUSTOMER_WALK_THROUGH/><RELATED_ARTICLES><![CDATA[SOL1033]]></RELATED_ARTICLES><CUSTOMER_ISSUEQUESTION/><ENVIRONMENT/><CAUSE/></SOLUTIONS></xml></root>
